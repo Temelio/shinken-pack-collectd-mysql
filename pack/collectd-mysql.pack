@@ -1,0 +1,6 @@
+{
+    "name": "collectd-mysql",
+    "description": "Checks to manage our Mysql collectd checks",
+    "path": "collectd-mysql",
+    "macros": {}
+}
